@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If this project helps your course or paper, please cite it."
+title: "AutoParking MATLAB"
+abstract: >-
+  A toolbox-free MATLAB automatic parking simulator with a Hermite forward
+  approach, a 90-degree reverse arc into a perpendicular slot, path tracking,
+  collision checking, a 1000-case Monte Carlo study (100% success, 0 collisions),
+  and an interactive GUI with optional recording.
+type: software
+authors:
+  - name: "masanli1"
+version: "1.0.0"
+date-released: "2026-10-20"
+license: "AGPL-3.0-or-later"
+repository-code: "https://github.com/masanli1/autoparking-matlab"
+keywords:
+  - automatic parking
+  - MATLAB
+  - path planning
+  - trajectory tracking
+  - monte carlo
+  - simulation
+  - AGPL
